@@ -1,4 +1,4 @@
 SELECT
     *
 FROM products
-WHERE name ILIKE '%Potatoes%';
+WHERE name ILIKE '%Chicken%';
